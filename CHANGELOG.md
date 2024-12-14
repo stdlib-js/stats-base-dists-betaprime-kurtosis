@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-14)
+
+<section class="features">
+
+### Features
+
+-   [`1a98e92`](https://github.com/stdlib-js/stdlib/commit/1a98e9262d48a49dde1925c2a1d501511d795f05) - add C implementation for `stats/base/dists/betaprime/kurtosis` [(#3459)](https://github.com/stdlib-js/stdlib/pull/3459)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3438](https://github.com/stdlib-js/stdlib/issues/3438)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1a98e92`](https://github.com/stdlib-js/stdlib/commit/1a98e9262d48a49dde1925c2a1d501511d795f05) - **feat:** add C implementation for `stats/base/dists/betaprime/kurtosis` [(#3459)](https://github.com/stdlib-js/stdlib/pull/3459) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Aayush Khanna
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
