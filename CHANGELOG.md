@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-14)
+## Unreleased (2024-12-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`1a98e92`](https://github.com/stdlib-js/stdlib/commit/1a98e9262d48a49dde1925c2a1d501511d795f05) - **feat:** add C implementation for `stats/base/dists/betaprime/kurtosis` [(#3459)](https://github.com/stdlib-js/stdlib/pull/3459) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 
 </details>
