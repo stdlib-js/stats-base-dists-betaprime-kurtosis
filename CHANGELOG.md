@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-08-28)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`89776d1`](https://github.com/stdlib-js/stdlib/commit/89776d13e1004ad7926a85d6a24c3f03a50bf3ef) - **test:** migrate `stats/base/dists/betaprime/kurtosis` to ULP-based assertions [(#14750)](https://github.com/stdlib-js/stdlib/pull/14750) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
